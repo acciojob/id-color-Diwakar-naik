@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
 #yellow{
+		border:solid green;
 	background-color:yellow;
 	border-width:1px;
 	
-	border:solid green
+
 }
 /*  your css code here. If applicable */
 #red{
